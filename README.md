@@ -1,2 +1,2 @@
-# FES_FrontEnd_Step1
+# FES_FrontEnd_Portfolio
 FES フロントエンドカリキュラム初級編の成果物
